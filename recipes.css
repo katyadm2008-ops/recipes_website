@@ -192,6 +192,11 @@ h1 {
 	margin: 150px 0 20px 0;
 }
 
+.forma h1 {
+	text-align:center;
+	margin: 10px;
+}
+
 input, textarea, select, button {
 	background-color: white;
 	padding: 15px;	
