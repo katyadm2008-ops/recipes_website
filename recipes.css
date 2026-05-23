@@ -269,7 +269,7 @@ h3 {
     to {transform: translate(0, -5px); opacity: 1;}
 }
 
-@media(max-width: 480px) {
+@media(max-width: 460px) {
 	
 	header, footer {
 		width: 480px;
@@ -284,7 +284,7 @@ h3 {
 		width: 400px;
 		height: 200px;
 		background-size: 400px 200px ;
-		margin: auto;
+		margin: 20px auto;
 	}
 	
 	.rec {
@@ -316,6 +316,7 @@ h3 {
 	
 	input, button {
 		width: 100px;
+		color: black;
 	}
 	
 	.forma {
