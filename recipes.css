@@ -281,7 +281,7 @@ h3 {
 		width: 350px;
 		height: 194px;
 		background-size: 350px 194px ;
-		margin: auto;
+		margin: 10px auto;
 	}
 	
 	.rec {
@@ -303,7 +303,7 @@ h3 {
 	}
 	
 	.howmuch {
-		width: 60%;
+		width: 50%;
 
 	}
 	
@@ -322,6 +322,7 @@ h3 {
 		font-size:70%;
 	}
 	.kol {
+		width:90%
 		height: 320px;
 	}
 	form {
